@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+MiniCam API with Footprint
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a outline of the api which would be ideal to assist Footprint in linking up with the Solo Pro product line - and joining the dots for your users.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
