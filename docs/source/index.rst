@@ -15,5 +15,6 @@ Contents
 .. toctree::
 
    aims
-   api
    api-user
+   api-import
+   api-export
