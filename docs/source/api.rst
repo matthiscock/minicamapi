@@ -25,3 +25,37 @@ Send to Footprint
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
+
+
+
+
+
+Authorise A User
+----------------
+
+.. code-block:: php
+
+   Endpoint: /api/v1/minican/authoriseUser
+   
+   Post:
+      username, password
+      
+   Returns: 
+      Json { name, lastname, token }
+
+   Desired Actions
+      This user is stored on the system.
+      
+      
+De - Authorise A User
+----------------
+
+.. code-block:: php
+
+   Desired Actions
+   
+      List of users which are authorised shown
+      
+      Choose a User
+      
+      This user is removed from the system.
