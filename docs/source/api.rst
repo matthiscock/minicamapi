@@ -43,19 +43,18 @@ Authorise A User
    Returns: 
       Json { name, lastname, token }
 
-   Desired Actions
-      This user is stored on the system.
+Desired Actions
+~~~~~~~~~~~~~~~
+
+This user is stored on the system.
       
       
 De - Authorise A User
 ----------------
 
-.. code-block:: php
+Desired Actions
+~~~~~~~~~~~~~~~
 
-   Desired Actions
-   
-      List of users which are authorised shown
-      
-      Choose a User
-      
-      This user is removed from the system.
+* List of users which are authorised shown
+* Choose a User
+* This user is removed from the system.
