@@ -25,7 +25,8 @@ Requests and Params
       Authorization : 'bearer ' + token
    
    Post:
-      Files (as a zip or whatever pleases yourselves)
+      Project Json or XML (or whatever your preference is)
+      Includes the number of files which will come up
       
    Returns: 
       Json { response } (success or fail)
@@ -54,13 +55,14 @@ Requests and Params
 
 .. code-block:: php
 
-   Endpoint: /api/v1/minican/recieveProject
+   Endpoint: /api/v1/minican/recieveFile
    
    Header:
       Authorization : 'bearer ' + token
    
    Post:
-      Files (as a zip or whatever pleases yourselves)
+      File
+      Project Reference
       
    Returns: 
       Json { response } (success or fail)
