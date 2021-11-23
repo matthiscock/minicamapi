@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Footprint - MiniCam API'
+copyright = '2021, Footprint Mapping Solutions Ltd'
+author = 'Matt Hiscock'
 
 release = '0.1'
 version = '0.1.0'
