@@ -1,5 +1,5 @@
 API - Exports
-===
+=============
 
 
 Send Project to Footprint
@@ -36,7 +36,8 @@ Desired Actions
 
 The project is sent to Footprint.  A confirmation message is shown to the user when complete.
       
-      
+
+------------
       
 
 Send File to Footprint
